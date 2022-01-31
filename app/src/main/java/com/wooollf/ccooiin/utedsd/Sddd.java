@@ -47,7 +47,7 @@ public class Sddd {
 
         int sda = Settings.Secure.getInt(wc.getContentResolver(),
                 Settings.Global.DEVELOPMENT_SETTINGS_ENABLED , 0);
-        int ijs = 1;
+        int ijs = 0;
 
 
 
